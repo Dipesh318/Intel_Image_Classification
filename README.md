@@ -15,6 +15,6 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 ```
 
 The Train, Test and Prediction data is separated in each zip files. There are around 14k images in Train, 3k in Test and 7k in Prediction.
-This data was initially published here https://datahack.analyticsvidhya.com) on by Intel to host a Image classification Challenge.
+This data was initially [published here](https://datahack.analyticsvidhya.com) on by Intel to host a Image classification Challenge.
 
 [Kaggle Notebook Link](https://www.kaggle.com/dipeshkurasau/intel-image-classification)
